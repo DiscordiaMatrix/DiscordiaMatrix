@@ -1,6 +1,6 @@
 # Hi There, I'm Discordia Matrix 👋
 
-- 🌱 I’m currently learning: Leaflet, JavaScript
+- 🌱 I’m currently learning: Leaflet, Ionic
 - 💞️ I’m looking to collaborate on projects that will enable people to help better the world 
 - 📫 How to reach me:
  
